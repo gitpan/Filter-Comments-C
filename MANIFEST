@@ -1,0 +1,6 @@
+Makefile.PL
+MANIFEST
+README
+t/Filter-Comments-C.t
+lib/Filter/Comments/C.pm
+META.yml                                 Module meta-data (added by MakeMaker)
